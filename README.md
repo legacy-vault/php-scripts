@@ -1,2 +1,2 @@
 # php-scripts
-Scripts in PHP programming Language
+Some Scripts written in PHP programming Language.
